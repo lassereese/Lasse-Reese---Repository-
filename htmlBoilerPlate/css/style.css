@@ -1,0 +1,89 @@
+/**
+ * fil: css/style.css
+ **/
+/* Variabler: genbruges og gør designvalg enkle */
+:root {
+  /* farver */
+  --blue: #0d0acc;
+  --green: #1d2d52;
+  --grey:
+  /* fonte */
+}
+
+nav {margin:auto;
+display:contents;
+float: right;
+font-family: sans-serif,geneva,monospace;
+}
+
+
+
+header {
+
+  color: black;
+  margin: auto;
+  font-family:geneva;sans-serif,monospace
+}
+
+
+/* Tekstbredde */
+p {
+  width: 400px;
+}
+
+
+/* Her bruges en variabel: --blue */
+body {
+  font-family: arial, helvetica, sans-serif;
+  background-color: beige;
+}
+
+/* Link*/
+a {
+  color: orange;
+  text-decoration: none;
+}
+
+/* VANDRET MENU */
+ul {list-style-type:none;}
+nav ul li {display:inline;}
+
+nav{padding: 25px;
+}
+nav{ background-color: white;
+ }
+
+h2 {
+  width: 400px;
+  background-color: none
+}
+/* Layout */
+/*margin auto = centrering*/
+
+#wrap {
+  width: 650px;
+  margin: auto;
+}
+img-aligne {float: auto;}
+
+figure {float: auto;}
+
+figure img {margin-left:auto;}
+figure img {margin-right:auto;}
+
+P {MARGIN-TOP:50;
+}
+/* Typografi */
+h2 {
+  border-bottom: 2px solid orange;
+  padding: 25 px;
+}
+
+article {color: black;
+}
+
+footer {color: black;
+}
+
+footer {padding: 25px;}
+footer {background-color: white}
