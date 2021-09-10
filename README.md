@@ -3,4 +3,4 @@ Undervisning September 2021
 
 ## Direkte fra klasse
 
-Her er koden. og et lin [Danmarks Radio](https://dr.dk)
+Her er koden. og et link [Danmarks Radio](https://dr.dk)
